@@ -1,3 +1,5 @@
+//Some type of javascript
+
 // string
 
 var name = "sifat uddin";
