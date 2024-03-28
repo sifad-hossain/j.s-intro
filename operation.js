@@ -4,6 +4,7 @@
 // Division (/)
 // reminder (modulus) (%)
 
+// ***egg and onion
 
 var eggPrice = 30;
 var onionPrice = 50;
